@@ -1,0 +1,172 @@
+/*** ABOUT PAGE ***/
+
+/*** FRAMEWORK ***/
+
+.full-width {
+  width: 1470px;
+  margin: 0 auto;
+  overflow: auto;
+  background-color: #000000;
+}
+
+.half-width {
+  width: 735px;
+  float: left;
+}
+
+.third-width {
+  width: 490px;
+  float: left;
+}
+
+/*** ACCENT BORDERS ***/
+
+.border {
+  border: solid 1px #ffffff;
+  position: absolute;
+  left: 5%;
+  right: 5%;
+}
+
+/*** HEADER ***/
+
+/*** WEB DEVELOPER ***/
+
+header h1 {
+  font-family: abadi-condensed,sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: left;
+  padding-left: 65px;
+  padding-top: 15px;
+}
+
+/*** NAV BAR ***/
+
+nav {
+  padding-left: 70px;
+  padding-bottom: 15px;
+}
+
+nav ul li {
+  display: inline-block;
+  padding-left: 50px;
+  padding-top: 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-family: abadi-condensed,sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-left: 18px;
+}
+
+/*** MAIN ***/
+
+.grey {
+  background-color: #20201f;
+  height: 740px;
+}
+
+/*** ABOUT ME ***/
+
+.half-width h2 {
+  font-family: fino-sans,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 160px;
+}
+
+#about-border {
+  border-bottom: 1px solid #000000;
+  position: absolute;
+  left: 7%;
+  right: 53%;
+}
+
+/*** ABOUT INFO ***/
+
+.half-width p {
+  font-family: montserrat,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 40px;
+  color: #ffffff;
+  text-align: center;
+  width: 70%;
+  margin-left: 140px;
+  margin-top: 70px;
+}
+
+/*** PROFILE IMAGE ***/
+
+.img #profile-img {
+    width: 490px;
+    margin-top: 80px;
+    margin-left: 90px;
+    border: 5px solid #000000;
+}
+
+/*** EXPERTISE ***/
+
+#expertise h2 {
+  font-family: fino-sans,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+#expertise-border {
+  border-bottom: 1px solid #20201f;
+  position: absolute;
+  left: 35%;
+  right: 35%;
+}
+
+/*** ICON IMAGES ***/
+
+.third-width img {
+  width: 120px;
+  margin-left: 180px;
+  margin-top: 80px;
+}
+
+/*** ICON TEXT ***/
+
+.third-width p {
+  font-family: montserrat,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  color: #ffffff;
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 80px;
+}
+
+/*** DIVIDER BORDER ***/
+
+#bottom-border {
+  border-bottom: 1px solid #20201f;
+  position: absolute;
+  left: 5%;
+  right: 5%;
+}
